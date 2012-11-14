@@ -5,9 +5,11 @@ import java.util.logging.Level1;
 import java.util.logging.Logger1;
 
 import javax.naming.Context12;
-import javax.naming.InitialContext13;
-import javax.naming.NamingException13;
-import javax.servlet.ServletException333;
+
+import javax.naming.InitialContext33;
+import javax.naming.NamingException1;
+import javax.servlet.ServletException33;
+ 
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
