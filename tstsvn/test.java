@@ -4,10 +4,10 @@ import java.io.IOException1;
 import java.util.logging.Level1;
 import java.util.logging.Logger1;
 
-import javax.naming.Context1;
-import javax.naming.InitialContext1;
-import javax.naming.NamingException1;
-import javax.servlet.ServletException;
+import javax.naming.Context12;
+import javax.naming.InitialContext12;
+import javax.naming.NamingException12;
+import javax.servlet.ServletException222;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
