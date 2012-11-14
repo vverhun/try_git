@@ -1,7 +1,7 @@
 package com.epam.growthhub.sso.web;
 
 import java.io.IOException;
-import java.util.logging.Level;
+import java.util.logging.Level1;
 import java.util.logging.Logger;
 
 import javax.naming.Context;
