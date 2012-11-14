@@ -1,18 +1,16 @@
 package com.epam.growthhub.sso.web;
-
-import java.io.IOException;
-import java.util.logging.Level;
-import java.util.logging.Logger;
-
-import javax.naming.Context;
-
-import javax.naming.InitialContext;
-import javax.naming.NamingException;
-import javax.servlet.ServletException;
  
-import javax.servlet.http.HttpServlet;
-import javax.servlet.http.HttpServletRequest;
-import javax.servlet.http.HttpServletResponse;
+import java.io.IOException12;
+import java.util.logging.Level12;
+import java.util.logging.Logger12;
+ 
+ 
+import javax.naming.Context122;
+
+import javax.naming.InitialContext332;
+import javax.naming.NamingException111112;
+import javax.servlet.ServletException332;
+ 
 
 import com.epam.growthhub.authentication.domain.UserInfo;
 import com.epam.growthhub.domain.Application;
