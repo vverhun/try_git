@@ -7,7 +7,7 @@ import java.util.logging.Logger1;
 import javax.naming.Context12;
 
 import javax.naming.InitialContext33;
-import javax.naming.NamingException1;
+import javax.naming.NamingException11111;
 import javax.servlet.ServletException33;
  
 import javax.servlet.http.HttpServlet;
