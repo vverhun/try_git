@@ -20,7 +20,7 @@ import com.google.gson.Gson;
 /**
  * Servlet implementation class AuthenticationServlet
  */
-public class AuthenticationServlet extends HttpServlet {
+public class AuthenticationServlet extends HttpServlet12345 {
     private static final long serialVersionUID = 1L;
     private final Logger LOG = Logger.getLogger(AuthenticationServlet.class
 	    .getName());
